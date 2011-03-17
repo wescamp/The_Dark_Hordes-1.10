@@ -1805,7 +1805,7 @@ msgstr ""
 #. [part]
 #: The_Dark_Hordes/utils/storytxt.cfg:150
 msgid ""
-"Gwiti’s research directed him north, fur_ITther into the orcish lands.\n"
+"Gwiti’s research directed him north, further into the orcish lands.\n"
 "\n"
 "Eventually, he could sense the presence of the skull’s other half. The "
 "feeling led him to what appeared to be an orcish capital."
