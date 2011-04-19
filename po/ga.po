@@ -3,8 +3,9 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2011-02-21 15:36+0100\n"
-"PO-Revision-Date: 2011-03-13 15:51-0800\n"
-"Last-Translator: Carson Callis <tree_rings@rocketmail.com>\n"
+"PO-Revision-Date: 2011-04-15 09:38-0800\n"
+"Last-Translator: Carson Callis aka Mountian_King <tree_rings@rocketmail."
+"com>\n"
 "Language-Team: none\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
@@ -22,7 +23,7 @@ msgstr "NBD"
 #: The_Dark_Hordes/_main.cfg:15 The_Dark_Hordes/scenarios/09x_Inter.cfg:5
 #: The_Dark_Hordes/scenarios/09x_Inter.cfg:29
 msgid "The Dark Hordes"
-msgstr "Na Baiclí Dochrach"
+msgstr "Na Baiclí Dochracha"
 
 #: The_Dark_Hordes/_main.cfg:18
 msgid "Apprentice"
@@ -34,7 +35,7 @@ msgstr "(Socair)"
 
 #: The_Dark_Hordes/_main.cfg:19
 msgid "Master"
-msgstr "Màistir"
+msgstr "Máistir"
 
 #: The_Dark_Hordes/_main.cfg:19
 msgid "(normal)"
@@ -53,6 +54,8 @@ msgstr "Tiarna Dochrach"
 msgid ""
 "Lead fugitive dark sorcerer Gwiti Ha’atel to mastery of the undead hordes."
 msgstr ""
+"Treoraigh an drochasarlaí éalaitheach Gwiti Ha'atel go máistreacht na "
+"mbaiclí neamh-mharbha."
 
 #. [campaign]
 #: The_Dark_Hordes/_main.cfg:29
@@ -67,12 +70,12 @@ msgstr "Leagan:"
 #. [campaign]
 #: The_Dark_Hordes/_main.cfg:32 The_Dark_Hordes/_main.cfg:43
 msgid "(for Battle for Wesnoth 1.9.x)"
-msgstr "(le Chatha Wesnoth 1.9.x)"
+msgstr "(le Cath na Wesnoth 1.9.x)"
 
 #. [campaign]
 #: The_Dark_Hordes/_main.cfg:34
 msgid " Part 1"
-msgstr "Paírt 1"
+msgstr " Paírt 1"
 
 #. [campaign]
 #: The_Dark_Hordes/_main.cfg:40
@@ -82,7 +85,7 @@ msgstr "(Gan chóiriú, 2 mísin iomlán.)"
 #. [campaign]
 #: The_Dark_Hordes/_main.cfg:46
 msgid " Part 2"
-msgstr "Paírt 1"
+msgstr " Paírt 2"
 
 #. [about]
 #: The_Dark_Hordes/about.cfg:4
@@ -92,7 +95,7 @@ msgstr "Cruthaitheoir agus Línitheoir Bunaidh"
 #. [about]
 #: The_Dark_Hordes/about.cfg:10
 msgid "Campaign Maintenance and Completion"
-msgstr ""
+msgstr "Coimeád agus Críochnú"
 
 #. [about]
 #: The_Dark_Hordes/about.cfg:25
@@ -124,7 +127,7 @@ msgstr ""
 #. [scenario]: id=01_A_New_Chance
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:4
 msgid "A New Chance"
-msgstr "Deis Nua"
+msgstr "An Deis Nua"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:29
@@ -211,7 +214,7 @@ msgstr "Arrachtaí"
 #. [unit]: type=Troll, id=Rek Iceheart
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:76
 msgid "Rek Iceheart"
-msgstr "Reic Chroífuar"
+msgstr "Reic Croífuar"
 
 #. [unit]: type=Orcish Grunt, id=Gabtur
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:84
@@ -233,12 +236,12 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:146
 msgid "Argh! I die!"
-msgstr "Argh! Is marbh mé!"
+msgstr "Fo! Is marbh mé!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:154
 msgid "The Wesnothians have discovered my escape! This is not good..."
-msgstr ""
+msgstr "Fuair na Wesnothaigh siad a mo éalú! Níl sé maith..."
 
 #. [scenario]: id=02_Brother_Against_Brother
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:7
@@ -275,18 +278,23 @@ msgid ""
 "Ah, hated brother mine. Look well upon the setting sun, for you shall not "
 "live to see another in this land."
 msgstr ""
+"Tusa atá ann, mo dheartháir gráinithe. Féach ar an ghrian ag dul faoi, ach "
+"beidh tú marbh roimh a maidin."
 
 #. [message]: speaker=Nati Ha'atel
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:97
+#, fuzzy
 msgid ""
 "This land? Do you truly not know where we are? Then you are a greater fool "
 "than I had thought."
 msgstr ""
+"An tír seo? Do you truly not know where we are? Then you are a greater fool "
+"than I had thought."
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:101
 msgid "Cease your blustering, fool, and prepare to die... again."
-msgstr "Dún do bhéal a phleidhce, agus déan reidh le bás a fháil... arís."
+msgstr "Dún do bhéal, a phleidhce, agus déan reidh le bás a fháil... arís."
 
 #. [message]: speaker=Nati Ha'atel
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:105
@@ -298,17 +306,19 @@ msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:109
+#, fuzzy
 msgid ""
 "Don’t be silly! I’m not hairy enough to be a carpet! But your scalp would "
 "make a good pillow."
 msgstr ""
+"Ná cuir ag gáire mé!! I’m not hairy enough to be a carpet! But your scalp "
+"would make a good pillow."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:120
 msgid "What? I can’t die! I already have! Noooo!"
 msgstr ""
-"Céard é féin anois? Ní éigin dom faigh bás! Is marbh mé cheann féin! "
-"AAUUGGHH!"
+"Céard é féin anois? Ní éigin dom faigh bás! Is marbh mé cheann féin! Faraor!"
 
 #. [message]: speaker=Nati Ha'atel
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:124
@@ -327,16 +337,20 @@ msgstr "Tá deireadh leis. Tá mé an tuar nite."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:142
+#, fuzzy
 msgid ""
 "I...have failed to win this battle. I am defeated. I will not believe it."
-msgstr ""
+msgstr "I...have failed to win this battle. Táim díomuach. Ní chreidim é"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:146
+#, fuzzy
 msgid ""
 "Die, yes, die, and go to the Land of the Dead. Perhaps one day you will be "
 "back under my command!"
 msgstr ""
+"Faigh bás, agus téigh chuig an Tír na Marbh. Perhaps one day you will be "
+"back under my command!"
 
 #. [message]: speaker=second_unit
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:161
@@ -346,12 +360,12 @@ msgstr "Dúirt mé mar sin leat!!"
 #. [message]: speaker=second_unit
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:172
 msgid "And by my own hands you died!"
-msgstr ""
+msgstr "agus ó mo lámh do bhás!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:183
 msgid "I am Gwiti the Mighty, prepare to die!"
-msgstr "Mise Gwiti Neartmhar. Déan reidh le bás a fháil!"
+msgstr "Mise an Gwiti Neartmhar. Déan reidh le bás a fháil!"
 
 #. [message]: speaker=Nati Ha'atel
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:194
@@ -375,17 +389,17 @@ msgstr ""
 #. [scenario]: id=03_Skull_of_Morgorath
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:7
 msgid "The Skull of Morgorath"
-msgstr "Blaosc Mhórgoraith"
+msgstr "An Blaosc Mhórgoraith"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:30
 msgid "Take the Skull of Morgorath"
-msgstr "Faigh ar Blaosc Mhórgoraith"
+msgstr "Faigh an Blaosc Mhórgoraith"
 
 #. [objective]: condition=lose
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:38
 msgid "Death of Leganoth"
-msgstr "Bás Leaganot"
+msgstr "Bás Leaganoit"
 
 #. [side]: type=Orcish Warlord, id=Karz Gholum
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:64
@@ -400,7 +414,7 @@ msgstr "Cárz"
 #. [side]: type=Orcish Warrior, id=Isidal B'Tai
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:75
 msgid "Isidal B’Tai"
-msgstr "Isiadal"
+msgstr "Isiadal B’Taí"
 
 #. [side]: type=Orcish Warrior, id=Isidal B'Tai
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:79
@@ -450,15 +464,19 @@ msgstr ""
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:134
 msgid "Speak on."
-msgstr ""
+msgstr "Abair leat."
 
 #. [message]: speaker=Leganoth
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:138
+#, fuzzy
 msgid ""
 "Do you see the three orc clans of this land? Their banners are topped with "
 "skulls, as is their custom. But one of these is the Skull of Morgorath — "
 "Take it and your power will grow greater by far."
 msgstr ""
+"An bhfeiceann tú na trí clanna oirceacha as tír seo? Their banners are "
+"topped with skulls, as is their custom. But one of these is the Skull of "
+"Morgorath — Take it and your power will grow greater by far."
 
 #. [message]: speaker=Gwiti Ha'atel
 #. [message]: speaker=unit
@@ -466,7 +484,7 @@ msgstr ""
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:149
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:197
 msgid "What? I can’t die! Noooo!"
-msgstr "Céard é féin anois? Ní éigin dom faigh bás! AAUUGGHH!"
+msgstr "Céard é féin anois? Ní éigin dom faigh bás! Foooooooo!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:163
@@ -476,7 +494,7 @@ msgstr "Níl an Bhlaosc Mhórgoraith tuillte agatsa!"
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:180
 msgid "Oh, no! The undead hordes have taken my banner!"
-msgstr ""
+msgstr "Faraor! Tá mo bhratach á gadaíocht ag na mbaiclí neamh-mharba!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:184
@@ -500,12 +518,12 @@ msgstr ""
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:233
 msgid "That skull is powerless!"
-msgstr "Tá seo blaosc neamhchumasach!"
+msgstr "Tá blaosc seo neamhchumasach!"
 
 #. [message]: speaker=Leganoth
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:244
 msgid "That is not the skull of Morgorath!"
-msgstr "Nil seo Blaosc Mhórgoraith!"
+msgstr "N[il seo an Blaosc Mhórgoraith!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:255
@@ -515,12 +533,12 @@ msgstr ""
 #. [scenario]: id=04_Mages_And_Elves
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:7
 msgid "Mages and Elves"
-msgstr "Asarlaithe agus Síoga"
+msgstr "Asarlaithe agus Eilbh"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:31
 msgid "Move Gwiti to the Tower of Sorcery or..."
-msgstr ""
+msgstr "Téigh Gwiti go dtí Túr Gintlí nó..."
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:35
@@ -549,7 +567,7 @@ msgstr "Leassailin"
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:108
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:72
 msgid "team_name^Elves"
-msgstr "Síoga"
+msgstr "Eilbh"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:120
@@ -572,6 +590,7 @@ msgstr ""
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:129
 msgid "A dark sorcerer approaches! Can this be the same one that we banished?"
 msgstr ""
+"Tá an asarlaí dorcha ag tarraingt anseo. An é seo an asarlaí ar díbirt?"
 
 #. [message]: speaker=Quirind
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:133
@@ -583,7 +602,7 @@ msgstr ""
 #. [message]: speaker=Lessalin
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:137
 msgid "Quirind, know that you have the Elves at your back."
-msgstr ""
+msgstr "A Chuirind, tá na hEilbh cabhróidh tú. Muidne do chúl toraic."
 
 #. [message]: speaker=Lessalin
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:141
@@ -601,6 +620,8 @@ msgstr ""
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:162
 msgid "No! No! Noooo! It is over, I feel the shades reaching for me..."
 msgstr ""
+"Mo ghreadán! Monuar! Monuar géas! Tá deireadh leis. Tá na scáthanna ag "
+"síneadh, síneadh..."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:176
@@ -627,7 +648,7 @@ msgstr ""
 #. [message]: speaker=Lessalin
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:219
 msgid "A curse upon that foul dark sorcerer!"
-msgstr "Mo mhallacht don an asarlaí dorcha!"
+msgstr "Mo mhallacht don drochasarlaí seo!"
 
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:5
@@ -637,7 +658,7 @@ msgstr "Istigh i Túr"
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:22
 msgid "Find Crelanu’s Book"
-msgstr "Faighim Leabhair Chrealanú"
+msgstr "Faigh Leabhair Chrealanú"
 
 #. [unit]: type=Elder Mage, id=Krimitros
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:66
@@ -674,7 +695,7 @@ msgstr "Lagon"
 #. [message]: speaker=Karae
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:147
 msgid "Hayaargghh! We have arrived! Command us, Master!"
-msgstr ""
+msgstr "Hayaargghh! Shrioch sinn anseo! Ordaigh asainn, a Mháistir!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:168
@@ -690,7 +711,7 @@ msgstr "An tríú hurlár! Níos gaire! Faigh an Leabhar!"
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:194
 msgid "There’s a secret door here! This must be the library."
-msgstr "Tá an doras folaithe anseo! Ní foláir nó go bhfuil sé leabharlann."
+msgstr "Tá doras folaithe anseo! Ní foláir nó go bhfuil sé leabharlann."
 
 #. [message]: speaker=Krimitros
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:205
@@ -705,12 +726,12 @@ msgstr "Féach air sin anois. Cúig phíosa óir triocha sa cófra seo."
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:210
 msgid "Blast it, the chest is empty!"
-msgstr "Léan air! Tá an cófra folamh!"
+msgstr "Léan air! Tá cófra seo folamh!"
 
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:211
 msgid "Twenty pieces of gold is a welcome gift."
-msgstr "Is fiche píosa óir an tabhartas a theastaigh."
+msgstr "Is an tabhartas a theastaigh é fiche píosa óir."
 
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:212
@@ -726,12 +747,13 @@ msgstr ""
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:214
 msgid "Gack! This chest contains holy water!"
-msgstr "Gack! Seo cófra coinníonn uisce coisricthe!"
+msgstr "Gack! Coinníonn an cófra seo uisce coisricthe!"
 
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:215
+#, fuzzy
 msgid "Look at what the magi were guarding!"
-msgstr ""
+msgstr "Feach ar seo! The magi were guarding gold!"
 
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:216
@@ -740,9 +762,8 @@ msgstr ""
 
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:217
-#, fuzzy
 msgid "Two dozen gold. Plundering this tower is fun!"
-msgstr "Ceithre óir is fiche. Plundering this tower is fun!"
+msgstr "Ceithre óir is fiche. Is maith liom ag sladach an túr seo!"
 
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:218
@@ -752,7 +773,7 @@ msgstr "Tá an moll airgid measctha anseo!"
 #. [scenario]: id=05_Inside_The_Tower
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:219
 msgid "Haha, this chest holds scores of gold coins!"
-msgstr ""
+msgstr "Haha, tá an cófra seo ag greim go léir píosa óir!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:232
@@ -766,9 +787,10 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:258
+#, fuzzy
 msgid ""
 "This is not the tome Crelanu wrote...hmmm... but it contains its whereabouts!"
-msgstr ""
+msgstr "Níl seo Leabhar Chrealanú...hmmm...but it contains its whereabouts!"
 
 #. [message]: speaker=Xakan
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:262
@@ -782,9 +804,8 @@ msgstr "Susanne"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:293
-#, fuzzy
 msgid "Congratulations! All your revenants survived."
-msgstr "Go maire tú! Tá na díoltasóirí ag martha go léir."
+msgstr "Comhghairdeas! Tá na díoltasóirí ag martha go léir."
 
 #. [scenario]: id=06_Crelanus_Book
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:5
@@ -794,7 +815,7 @@ msgstr "Leabhar an Chrealanú"
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:30
 msgid "Move Gwiti to take the book"
-msgstr ""
+msgstr "Téigh Gwiti go Leabhar"
 
 #. [side]: type=Elvish Hero, id=Urind
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:62
@@ -871,23 +892,28 @@ msgstr ""
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:184
 msgid "Use ctrl-alt-r to repeat your last recruit."
-msgstr ""
+msgstr "Oibrigh ctrl-alt-r athiarracht do earcach deireanach."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:211
+#, fuzzy
 msgid "I die a terrible death... not knowing why."
-msgstr ""
+msgstr "Faighim bás go huafásach ...not knowing why."
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:222
+#, fuzzy
 msgid "A curse upon that dark sorcerer! Why did he have to come here?!"
-msgstr ""
+msgstr "Mo mhallacht don drochasarlaí seo! Why did he have to come here?!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:235
+#, fuzzy
 msgid ""
 "At last! This is it! Now I must laugh crazily as a true villain always does!"
 msgstr ""
+"Faoi dheireadh!! Sin A Bhfuil! Now I must laugh crazily as a true villain "
+"always does!"
 
 #. [message]: speaker=Advance Scout
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:259
@@ -916,7 +942,7 @@ msgstr "Leonard"
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:70
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:86
 msgid "team_name^Wesnothians"
-msgstr "Wesnotheacha"
+msgstr "Wesnothaigh"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:104
@@ -957,7 +983,7 @@ msgstr ""
 #. [message]: speaker=Leonard
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:126
 msgid "I shall slay you myself!"
-msgstr ""
+msgstr "Ó mo lámhsa do bhás!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:137
@@ -978,7 +1004,8 @@ msgstr "Tiarna Aireatu"
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:168
 msgid ""
 "Leonard is dead? Oh, what a sad day. Come, men, let us destroy those undead!"
-msgstr "Is marbh Leonard? Is an droch-lá inniu. Loití na neamh-mharbh!"
+msgstr ""
+"Is marbh é Leonard? Is an droch-lá inniu. Loití na neamh-mharbha, a fhir!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:172
@@ -995,7 +1022,7 @@ msgstr ""
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:180
 msgid "Move Gwiti to the end of the mountain pass"
-msgstr ""
+msgstr "Téigh Gwiti go dti an ceann thuas den altán sléibhe"
 
 #. [message]: speaker=Lord Aretu
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:204
@@ -1029,9 +1056,11 @@ msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:271
+#, fuzzy
 msgid ""
 "Who are you? If you are a foe of the Dwarves, I might consider you an ally."
 msgstr ""
+"Cé atá tú? If you are a foe of the Dwarves, I might consider you an ally."
 
 #. [message]: speaker=Tanar
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:275
@@ -1050,10 +1079,13 @@ msgstr ""
 
 #. [message]: speaker=Tanar
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:283
+#, fuzzy
 msgid ""
 "Thank you, my new Lord! Never had I thought I would see the day when my "
 "people were glad to march alongside skeletons and ghosts."
 msgstr ""
+"Go raibh maith agat, a mo Thiarna nua! Never had I thought I would see the "
+"day when my people were glad to march alongside skeletons and ghosts."
 
 #. [scenario]: id=08_Underground_Pool
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:5
@@ -1063,7 +1095,7 @@ msgstr "Slodán Faoi Thalamh"
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:25
 msgid "Move Gwiti or Tanar into the water"
-msgstr "Aistríu Gwiti nó Tánar faoin uisce"
+msgstr "Téigh Gwiti nó Tánar faoin uisce"
 
 #. [objective]: condition=lose
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:33
@@ -1124,7 +1156,7 @@ msgstr ""
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:143
 msgid "The Dwarves are still in these caves!"
-msgstr "Tá siad na Abhaic anseo go fóill!"
+msgstr "Tá siad na hAbhaic anseo go fóill!"
 
 #. [message]: speaker=Tanar
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:147
@@ -1141,7 +1173,7 @@ msgstr ""
 #. [message]: speaker=Tanar
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:188
 msgid "The Hoard of the Dwarves! Three hundred pieces of gold at least!"
-msgstr "Is é seo an Cnuas Abhaic! Trí chéad píosa óir ar a laghad ar bith!"
+msgstr "Is é seo an Cnuas Abhcach! Trí chéad píosa óir ar a laghad ar bith!"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:206
@@ -1171,7 +1203,7 @@ msgstr "Dul a shábháilte agus..."
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:29
 msgid "...Kill all who stand in your way"
-msgstr ""
+msgstr "...Maraigh an uile i do shlí"
 
 #. [objectives]
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:39
@@ -1209,7 +1241,7 @@ msgstr ""
 #. [message]: speaker=Tanar
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:155
 msgid "Our castle has sunk!"
-msgstr ""
+msgstr "Chuaigh ar caisleán go tóin!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:159
@@ -1252,6 +1284,8 @@ msgstr ""
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:336
 msgid "Curse you dwarves! Curse you nagas! You will all die in this cave!"
 msgstr ""
+"Mo mhallact ar abhaic sibh! Mo mhallact ar nagaí sibh! Gheobhaidh sibh bás "
+"in uaimh seo!"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:342
@@ -1263,7 +1297,6 @@ msgstr ""
 
 #. [option]: speaker=narrator
 #: The_Dark_Hordes/scenarios/09x_Inter.cfg:32
-#, fuzzy
 msgid "Continue playing to Part 2"
 msgstr "Lean ar imirt go Pairt 2"
 
@@ -1275,7 +1308,7 @@ msgstr "Cluiche a chríochnú"
 #. [scenario]: id=10_Return_to_the_Northlands
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:5
 msgid "Return to the Northlands"
-msgstr "Filleadh a na Tuaisceart"
+msgstr "Fill ar na Thíortha Tuaisceart"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:26
@@ -1292,7 +1325,7 @@ msgstr "Bás Gwiti Ha’aitel"
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:63
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:69
 msgid "team_name^Tanar"
-msgstr "Thanair"
+msgstr "Thánair"
 
 #. [side]: type=Orcish Warlord, id=Vrork
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:71
@@ -1307,7 +1340,7 @@ msgstr "Bhrorc"
 #. [message]: speaker=Vrork
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:162
 msgid "Which cave-orc dares trespass on my land?"
-msgstr "Cé acu de na uaimh-oirc a dhéanamh ar mo thalamh?"
+msgstr "Cé aige uaimh-oirc a bhfuil dhéanamh ar mo thalamh?"
 
 #. [message]: speaker=Tanar
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:166
@@ -1315,8 +1348,8 @@ msgstr "Cé acu de na uaimh-oirc a dhéanamh ar mo thalamh?"
 msgid ""
 "I am Tanar. My clan and I seek passage to the north, by force if need be."
 msgstr ""
-"Tánar is ainm dom. My clan and I seek passage to the north, by force if need "
-"be."
+"Tánar is ainm dom. Mise agus mo muintir seek passage to the north, by force "
+"if need be."
 
 #. [message]: speaker=Vrork
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:170
@@ -1362,8 +1395,9 @@ msgstr "Níl orc mé!"
 
 #. [message]
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:292
+#, fuzzy
 msgid "We are getting slaughtered! Run for your lives!"
-msgstr ""
+msgstr "We are getting slaughtered! Rithigí más milis libh bhur mbeo!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:296
@@ -1373,7 +1407,7 @@ msgstr ""
 #. [scenario]: id=11_An_Orcish_Coup
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:6
 msgid "An Orcish Coup"
-msgstr "An Éacht Oircheach"
+msgstr "An Coup Oircheach"
 
 #. [objective]: condition=win
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:31
@@ -1441,12 +1475,12 @@ msgstr ""
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:210
 msgid "Hello brother, you will be serving as ingredients today."
-msgstr ""
+msgstr "Dia duit, a dheartháir, is tusa comhábair inniu."
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:215
 msgid "Some time passes..."
-msgstr ""
+msgstr "Nóiméad ina dhiadh sinn..."
 
 #. [hides]: id=invisible
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:255
@@ -1455,6 +1489,7 @@ msgstr "dofheictheacht"
 
 #. [hides]: id=invisible
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:259
+#, fuzzy
 msgid ""
 "invisible:\n"
 "The unit is invisible.\n"
@@ -1463,6 +1498,12 @@ msgid ""
 "enemy unit that first discovers this unit immediately loses all its "
 "remaining movement."
 msgstr ""
+"Dofheictheacht:\n"
+"Tá haonad seo dofheictheacht.\n"
+"\n"
+"Enemy units cannot see this unit, except if they have units next to it. Any "
+"enemy unit that first discovers this unit immediately loses all its "
+"remaining movement."
 
 #. [hides]: id=invisible
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:267
@@ -1471,6 +1512,7 @@ msgstr "dofheictheacht de ghnáth"
 
 #. [hides]: id=invisible
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:271
+#, fuzzy
 msgid ""
 "Mostly Invisible:\n"
 "The unit is invisible, except during the day.\n"
@@ -1479,6 +1521,12 @@ msgid ""
 "next to it. Any enemy unit that first discovers this unit immediately loses "
 "all its remaining movement."
 msgstr ""
+"Dofheictheacht de Gnath:\n"
+"Tá haonad seo dofheictheacht, ach i rith an lae.\n"
+"\n"
+"Enemy units can only see this unit during the day, or if they have units "
+"next to it. Any enemy unit that first discovers this unit immediately loses "
+"all its remaining movement."
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:294
@@ -1519,7 +1567,7 @@ msgstr ""
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:331
 msgid "Go back to the shades, you incompetent fool!"
-msgstr ""
+msgstr "Cuir díot! Go hIfreann leat, a amadáin dobhránta!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:344
@@ -1529,7 +1577,7 @@ msgstr ""
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:364
 msgid "This chieftain does not have the skull!"
-msgstr "Níl blaosc aige!"
+msgstr "Níl an blaosc ag taoiseach seo!"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:371
@@ -1564,12 +1612,14 @@ msgstr ""
 msgid ""
 "Sound the retreat! But know that I will come for your skull, foul "
 "necromancer!"
-msgstr "Cúlaigh! But know that I will come for your skull, a marbhdhraoi!"
+msgstr "Cúlaigh! But know that I will come for your skull, a mharbhdhraoi!"
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:445
 msgid "Something is broken, please report. (error #587)"
 msgstr ""
+"Is briste é rud éigin. Tuairisc a thabhairt ar seo, le do thoil. (erráid "
+"#587)"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:472
@@ -1635,7 +1685,7 @@ msgstr "tonn scáth"
 #. [unit_type]: id=Demilich, race=undead
 #: The_Dark_Hordes/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr "Demilich"
+msgstr "Leathlích"
 
 #. [unit_type]: id=Demilich, race=undead
 #: The_Dark_Hordes/units/Demilich.cfg:25
@@ -1661,7 +1711,7 @@ msgstr "anfa fuar"
 #. [unit_type]: id=Dread Lich, race=undead
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
 msgid "Dread Lich"
-msgstr "Básasarlai Uafásach"
+msgstr "Lích Uafásach"
 
 #. [unit_type]: id=Dread Lich, race=undead
 #: The_Dark_Hordes/units/Dread_Lich.cfg:26
@@ -1677,7 +1727,7 @@ msgstr ""
 #. [unit_type]: id=Initiate, race=undead
 #: The_Dark_Hordes/units/Initiate.cfg:4
 msgid "Initiate"
-msgstr "Rúnpháirteach"
+msgstr "Rúnpháirtí"
 
 #. [unit_type]: id=Initiate, race=undead
 #: The_Dark_Hordes/units/Initiate.cfg:18
