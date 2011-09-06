@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-02-21 15:36+0100\n"
+"POT-Creation-Date: 2011-09-05 22:21-0400\n"
 "PO-Revision-Date: 2011-04-15 09:38-0800\n"
 "Last-Translator: Carson Callis aka Mountian_King <tree_rings@rocketmail."
 "com>\n"
@@ -20,8 +20,8 @@ msgstr "NBD"
 
 #. [message]: speaker=narrator
 #. [scenario]: id=09x_Inter
-#: The_Dark_Hordes/_main.cfg:15 The_Dark_Hordes/scenarios/09x_Inter.cfg:5
-#: The_Dark_Hordes/scenarios/09x_Inter.cfg:29
+#: The_Dark_Hordes/scenarios/09x_Inter.cfg:5
+#: The_Dark_Hordes/scenarios/09x_Inter.cfg:29 The_Dark_Hordes/_main.cfg:15
 msgid "The Dark Hordes"
 msgstr "Na Baiclí Dochracha"
 
@@ -135,69 +135,69 @@ msgid "Clear the land of monsters"
 msgstr "Buaigh ar na naimdhe go léir"
 
 #. [objective]: condition=lose
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:33
-#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:39
-#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:40
-#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:35
-#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:184
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:34
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:26
+#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:40
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:35
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:391
-#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:29
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:33
+#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:39
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:33
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:34
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:34
+#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:35
+#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:184
+#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:29
 msgid "Death of Gwiti Ha’atel"
 msgstr "Bás Gwiti Ha’aitel"
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:38
+#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:44
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:39
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:387
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:37
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:43
-#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:44
+#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:42
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:39
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:188
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:34
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:39
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:387
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:37
-#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:42
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:38
 msgid "Turns run out"
 msgstr "Críochnú seala"
 
 #. [side]: type=Initiate, id=Gwiti Ha'atel
 #. [side]: id=Gwiti Ha'atel, type=Initiate
 #. [side]: type=Demilich, id=Gwiti Ha'atel
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:48
+#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:33
+#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:52
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:47
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:45
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:50
-#: The_Dark_Hordes/scenarios/09x_Inter.cfg:10
-#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:52
-#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:47
-#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:33
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:42
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:47
-#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:45
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:46
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:50
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:48
+#: The_Dark_Hordes/scenarios/09x_Inter.cfg:10
+#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:47
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:42
+#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:45
 msgid "Gwiti Ha’atel"
 msgstr "Gwiti Ha’aitel"
 
 #. [side]: type=Initiate, id=Gwiti Ha'atel
 #. [side]: id=Gwiti Ha'atel, type=Initiate
 #. [side]: type=Demilich, id=Gwiti Ha'atel
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:55
+#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:41
+#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:59
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:53
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:53
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:57
-#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:59
-#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:55
-#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:41
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:50
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:53
-#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:53
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:53
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:57
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:55
+#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:55
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:50
+#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:53
 msgid "team_name^Gwiti"
 msgstr "Gwiti"
 
@@ -478,11 +478,11 @@ msgstr ""
 "topped with skulls, as is their custom. But one of these is the Skull of "
 "Morgorath — Take it and your power will grow greater by far."
 
-#. [message]: speaker=Gwiti Ha'atel
 #. [message]: speaker=unit
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:204
-#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:149
+#. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:197
+#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:149
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:204
 msgid "What? I can’t die! Noooo!"
 msgstr "Céard é féin anois? Ní éigin dom faigh bás! Foooooooo!"
 
@@ -550,10 +550,10 @@ msgstr "Buaigh ar na ceannfoirt naimhdeacha go léir"
 msgid "Quirind"
 msgstr "Cuirind"
 
-#. [side]: type=Great Mage, id=Quirind
 #. [side]
-#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:83
+#. [side]: type=Great Mage, id=Quirind
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:48
+#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:83
 msgid "team_name^Magi"
 msgstr "Asarlaithe"
 
@@ -562,10 +562,10 @@ msgstr "Asarlaithe"
 msgid "Lessalin"
 msgstr "Leassailin"
 
-#. [side]: type=Elvish Marshal, id=Lessalin
 #. [side]: type=Elvish Hero, id=Urind
-#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:108
+#. [side]: type=Elvish Marshal, id=Lessalin
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:72
+#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:108
 msgid "team_name^Elves"
 msgstr "Eilbh"
 
@@ -1041,11 +1041,11 @@ msgstr ""
 msgid "Phew... Surely the puny humans will be too tired to follow me now!"
 msgstr ""
 
-#. [unit]: type=Orcish Warrior, id=Tanar
 #. [side]: type=Orcish Warrior, id=Tanar
+#. [unit]: type=Orcish Warrior, id=Tanar
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:63
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:255
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:92
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:63
 msgid "Tanar"
 msgstr "Tánar"
 
@@ -1098,8 +1098,8 @@ msgid "Move Gwiti or Tanar into the water"
 msgstr "Téigh Gwiti nó Tánar faoin uisce"
 
 #. [objective]: condition=lose
-#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:33
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:37
+#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:33
 msgid "Death of Tanar"
 msgstr "Bás Thánair"
 
@@ -1108,12 +1108,12 @@ msgstr "Bás Thánair"
 msgid "Peluthlos"
 msgstr "Pealuthlós"
 
+#. [side]: id=Ainarthol, type=Dwarvish Lord
 #. [side]: id=Peluthlos, type=Dwarvish Berserker
 #. [side]: id=Geldar, type=Dwarvish Lord
-#. [side]: id=Ainarthol, type=Dwarvish Lord
+#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:64
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:66
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:88
-#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:64
 msgid "team_name^Dwarves"
 msgstr "Abhaic"
 
@@ -1320,10 +1320,10 @@ msgstr "Buaigh ar na naimhead go léir"
 msgid "Death of Gwiti Ha'atel"
 msgstr "Bás Gwiti Ha’aitel"
 
-#. [side]
 #. [side]: type=Orcish Warrior, id=Tanar
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:63
+#. [side]
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:69
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:63
 msgid "team_name^Tanar"
 msgstr "Thánair"
 
@@ -1675,10 +1675,9 @@ msgid "chill wave"
 msgstr "tonn fuar"
 
 #. [attack]: type=arcane
-#: The_Dark_Hordes/units/Demilich.cfg:55
-#: The_Dark_Hordes/units/Deathmaster.cfg:46
-#: The_Dark_Hordes/units/Initiate.cfg:36
 #: The_Dark_Hordes/units/Dread_Lich.cfg:56
+#: The_Dark_Hordes/units/Deathmaster.cfg:46
+#: The_Dark_Hordes/units/Demilich.cfg:55 The_Dark_Hordes/units/Initiate.cfg:36
 msgid "shadow wave"
 msgstr "tonn scáth"
 
@@ -1697,14 +1696,14 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: The_Dark_Hordes/units/Demilich.cfg:31
 #: The_Dark_Hordes/units/Dread_Lich.cfg:32
+#: The_Dark_Hordes/units/Demilich.cfg:31
 msgid "touch"
 msgstr "lámh"
 
 #. [attack]: type=cold
-#: The_Dark_Hordes/units/Demilich.cfg:43
 #: The_Dark_Hordes/units/Dread_Lich.cfg:44
+#: The_Dark_Hordes/units/Demilich.cfg:43
 msgid "chill tempest"
 msgstr "anfa fuar"
 
