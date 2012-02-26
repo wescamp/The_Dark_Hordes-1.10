@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.11+cvs\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-09-05 22:21-0400\n"
+"POT-Creation-Date: 2012-02-26 17:24+0100\n"
 "PO-Revision-Date: 2006-07-09 22:45+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -20,8 +20,8 @@ msgstr ""
 
 #. [message]: speaker=narrator
 #. [scenario]: id=09x_Inter
-#: The_Dark_Hordes/scenarios/09x_Inter.cfg:5
-#: The_Dark_Hordes/scenarios/09x_Inter.cfg:29 The_Dark_Hordes/_main.cfg:15
+#: The_Dark_Hordes/_main.cfg:15 The_Dark_Hordes/scenarios/09x_Inter.cfg:5
+#: The_Dark_Hordes/scenarios/09x_Inter.cfg:29
 msgid "The Dark Hordes"
 msgstr ""
 
@@ -109,7 +109,7 @@ msgid "Hard Hat Area"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Dark_Hordes/base-utils/_main.cfg:55
+#: The_Dark_Hordes/base-utils/_main.cfg:49
 msgid ""
 "<span size='large'>Note:</span>\n"
 "\n"
@@ -136,71 +136,71 @@ msgid "Clear the land of monsters"
 msgstr "Rensa landet från monster"
 
 #. [objective]: condition=lose
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:34
-#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:26
-#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:40
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:35
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:391
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:33
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:39
-#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:33
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:33
+#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:26
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:34
+#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:40
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:35
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:184
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:34
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:35
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:391
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:29
+#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:33
 #, fuzzy
 msgid "Death of Gwiti Ha’atel"
 msgstr "Gwiti Ha'atel dör"
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:38
-#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:44
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:39
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:387
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:37
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:43
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:37
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:34
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:42
+#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:44
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:39
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:188
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:34
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:38
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:39
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:387
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:37
 msgid "Turns run out"
 msgstr "Dragen tar slut"
 
-#. [side]: type=Initiate, id=Gwiti Ha'atel
 #. [side]: id=Gwiti Ha'atel, type=Initiate
+#. [side]: type=Initiate, id=Gwiti Ha'atel
 #. [side]: type=Demilich, id=Gwiti Ha'atel
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:48
-#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:33
-#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:52
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:47
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:45
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:50
-#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:46
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:45
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:42
+#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:33
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:50
 #: The_Dark_Hordes/scenarios/09x_Inter.cfg:10
+#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:52
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:47
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:42
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:48
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:47
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:45
+#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:46
 #, fuzzy
 msgid "Gwiti Ha’atel"
 msgstr "Gwiti Ha'atel"
 
-#. [side]: type=Initiate, id=Gwiti Ha'atel
 #. [side]: id=Gwiti Ha'atel, type=Initiate
+#. [side]: type=Initiate, id=Gwiti Ha'atel
 #. [side]: type=Demilich, id=Gwiti Ha'atel
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:55
-#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:41
-#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:59
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:53
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:53
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:57
-#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:53
-#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:57
-#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:55
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:53
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:50
+#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:41
+#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:57
+#: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:59
+#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:55
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:55
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:53
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:53
+#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:53
 msgid "team_name^Gwiti"
 msgstr ""
 
@@ -504,11 +504,11 @@ msgstr ""
 "min. Om du får tag på den, så kommer din kraft att växa för varje dag som "
 "går."
 
-#. [message]: speaker=unit
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:197
-#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:149
+#. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:204
+#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:149
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:197
 #, fuzzy
 msgid "What? I can’t die! Noooo!"
 msgstr "Vad? Men jag kan inte dö! Neeeej!"
@@ -583,10 +583,10 @@ msgstr "Döda båda fiendeledarna"
 msgid "Quirind"
 msgstr "Quirind"
 
-#. [side]
 #. [side]: type=Great Mage, id=Quirind
-#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:48
+#. [side]
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:83
+#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:48
 msgid "team_name^Magi"
 msgstr ""
 
@@ -595,10 +595,10 @@ msgstr ""
 msgid "Lessalin"
 msgstr "Lessalin"
 
-#. [side]: type=Elvish Hero, id=Urind
 #. [side]: type=Elvish Marshal, id=Lessalin
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:72
+#. [side]: type=Elvish Hero, id=Urind
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:108
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:72
 msgid "team_name^Elves"
 msgstr ""
 
@@ -1131,11 +1131,11 @@ msgstr ""
 "Puh... De där ynkliga människorna borde vara för trötta för att förfölja mig "
 "nu!"
 
-#. [side]: type=Orcish Warrior, id=Tanar
 #. [unit]: type=Orcish Warrior, id=Tanar
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:63
-#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:255
+#. [side]: type=Orcish Warrior, id=Tanar
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:92
+#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:255
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:63
 msgid "Tanar"
 msgstr "Tanar"
 
@@ -1193,8 +1193,8 @@ msgid "Move Gwiti or Tanar into the water"
 msgstr "För Gwiti eller Tanar ut i vattnet"
 
 #. [objective]: condition=lose
-#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:37
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:33
+#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:37
 msgid "Death of Tanar"
 msgstr "Tanar dör"
 
@@ -1203,12 +1203,12 @@ msgstr "Tanar dör"
 msgid "Peluthlos"
 msgstr ""
 
-#. [side]: id=Ainarthol, type=Dwarvish Lord
 #. [side]: id=Peluthlos, type=Dwarvish Berserker
 #. [side]: id=Geldar, type=Dwarvish Lord
-#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:64
+#. [side]: id=Ainarthol, type=Dwarvish Lord
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:66
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:88
+#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:64
 msgid "team_name^Dwarves"
 msgstr ""
 
@@ -1374,7 +1374,7 @@ msgid "We have cleared the area, Lord."
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:215
+#: The_Dark_Hordes/scenarios/09_Underground_River.cfg:213
 msgid ""
 "Block the entrances. We will be safe here for a while.\n"
 "\n"
@@ -1425,10 +1425,10 @@ msgstr "Döda båda fiendeledarna"
 msgid "Death of Gwiti Ha'atel"
 msgstr "Gwiti Ha'atel dör"
 
-#. [side]: type=Orcish Warrior, id=Tanar
 #. [side]
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:69
+#. [side]: type=Orcish Warrior, id=Tanar
 #: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:63
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:69
 msgid "team_name^Tanar"
 msgstr ""
 
@@ -1587,7 +1587,7 @@ msgid "invisible"
 msgstr ""
 
 #. [hides]: id=invisible
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:259
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:256
 msgid ""
 "invisible:\n"
 "The unit is invisible.\n"
@@ -1603,7 +1603,7 @@ msgid "mostly invisible"
 msgstr ""
 
 #. [hides]: id=invisible
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:271
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:268
 msgid ""
 "Mostly Invisible:\n"
 "The unit is invisible, except during the day.\n"
@@ -1762,9 +1762,10 @@ msgid "chill wave"
 msgstr ""
 
 #. [attack]: type=arcane
-#: The_Dark_Hordes/units/Dread_Lich.cfg:56
+#: The_Dark_Hordes/units/Demilich.cfg:55
 #: The_Dark_Hordes/units/Deathmaster.cfg:46
-#: The_Dark_Hordes/units/Demilich.cfg:55 The_Dark_Hordes/units/Initiate.cfg:36
+#: The_Dark_Hordes/units/Initiate.cfg:36
+#: The_Dark_Hordes/units/Dread_Lich.cfg:56
 msgid "shadow wave"
 msgstr ""
 
@@ -1787,14 +1788,14 @@ msgstr ""
 "alla."
 
 #. [attack]: type=arcane
-#: The_Dark_Hordes/units/Dread_Lich.cfg:32
 #: The_Dark_Hordes/units/Demilich.cfg:31
+#: The_Dark_Hordes/units/Dread_Lich.cfg:32
 msgid "touch"
 msgstr "beröring"
 
 #. [attack]: type=cold
-#: The_Dark_Hordes/units/Dread_Lich.cfg:44
 #: The_Dark_Hordes/units/Demilich.cfg:43
+#: The_Dark_Hordes/units/Dread_Lich.cfg:44
 msgid "chill tempest"
 msgstr ""
 
@@ -1951,7 +1952,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:93
+#: The_Dark_Hordes/utils/storytxt.cfg:92
 msgid ""
 "After this, no mage dared take guardianship of the Book.\n"
 "Instead, they decided to hide Crelanu’s work where none would find it, while "
@@ -1973,7 +1974,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:124
+#: The_Dark_Hordes/utils/storytxt.cfg:122
 msgid ""
 "Crossing the pool did not take long and soon the orcs and undead marched on "
 "through the damp cave, into the mountain.\n"
@@ -1999,7 +2000,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:150
+#: The_Dark_Hordes/utils/storytxt.cfg:148
 msgid ""
 "Gwiti’s research directed him north, further into the orcish lands.\n"
 "\n"
