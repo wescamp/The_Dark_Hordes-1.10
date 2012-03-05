@@ -1,7 +1,21 @@
 The Dark Hordes - changelog
 ---------------------------
 
+Version 0.7.1
+- General:
+    * Campaign updated for 1.10
+- Translations from Wescamp
+    * New translations: ga, sr@ijekavian, sr@ijekavianlatin
+    * Updated translations: (almost) all of the others
+- Units
+    * Dread Lich adapted to new AMLA XP standard of 50 XP/level
+
 Version 0.7.0
+- General
+    * WML updates
+- Scenarios
+    * 10 - Return to the Northlands (NEW)
+    * 11 - An Orcish Coup (NEW, unfinished)
 - Translations from Wescamp (delayed for a long time)
     * New translations: bg, el, eo, ko, ro, sl, sr
     * Updated translations: af, ca, cs, da, de, en_GB, es, et, eu, fi, fr, he,
