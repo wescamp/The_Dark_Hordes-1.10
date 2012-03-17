@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.7.11-CVS\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:24+0100\n"
+"POT-Creation-Date: 2012-03-17 13:18-0400\n"
 "PO-Revision-Date: 2006-12-20 22:00+0100\n"
 "Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: Language fr\n"
@@ -29,7 +29,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #. [scenario]: id=09x_Inter
 #: The_Dark_Hordes/_main.cfg:15 The_Dark_Hordes/scenarios/09x_Inter.cfg:5
-#: The_Dark_Hordes/scenarios/09x_Inter.cfg:29
+#: The_Dark_Hordes/scenarios/09x_Inter.cfg:30
 msgid "The Dark Hordes"
 msgstr ""
 
@@ -76,7 +76,7 @@ msgstr ""
 
 #. [campaign]
 #: The_Dark_Hordes/_main.cfg:32 The_Dark_Hordes/_main.cfg:43
-msgid "(for Battle for Wesnoth 1.9.x)"
+msgid "(for Battle for Wesnoth 1.10.x)"
 msgstr ""
 
 #. [campaign]
@@ -144,71 +144,71 @@ msgid "Clear the land of monsters"
 msgstr "Nettoyer le pays de ses monstres"
 
 #. [objective]: condition=lose
-#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:39
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:33
-#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:26
-#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:34
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:40
+#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:34
+#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:39
+#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:26
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:34
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:35
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:184
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:34
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:35
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:391
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:29
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:33
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:35
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:391
 #, fuzzy
 msgid "Death of Gwiti Ha’atel"
 msgstr "Mort de Gwiti Ha'atel"
 
 #. [objective]: condition=lose
 #. [objective]: condition=win
-#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:43
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:37
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:34
-#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:42
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:44
+#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:42
+#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:43
+#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:38
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:39
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:188
-#: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:38
+#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:37
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:34
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:39
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:387
-#: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:37
 msgid "Turns run out"
 msgstr "Fin des tours"
 
 #. [side]: id=Gwiti Ha'atel, type=Initiate
-#. [side]: type=Initiate, id=Gwiti Ha'atel
 #. [side]: type=Demilich, id=Gwiti Ha'atel
-#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:50
+#. [side]: type=Initiate, id=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:45
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:42
-#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:33
-#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:50
-#: The_Dark_Hordes/scenarios/09x_Inter.cfg:10
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:52
-#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:47
+#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:50
+#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:50
+#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:33
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:48
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:47
+#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:47
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:45
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:46
+#: The_Dark_Hordes/scenarios/09x_Inter.cfg:11
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:42
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:47
 #, fuzzy
 msgid "Gwiti Ha’atel"
 msgstr "Gwiti Ha'atel"
 
 #. [side]: id=Gwiti Ha'atel, type=Initiate
-#. [side]: type=Initiate, id=Gwiti Ha'atel
 #. [side]: type=Demilich, id=Gwiti Ha'atel
-#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:57
+#. [side]: type=Initiate, id=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:53
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:50
-#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:41
-#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:57
 #: The_Dark_Hordes/scenarios/02_Brother_Against_Brother.cfg:59
-#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:55
+#: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:57
+#: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:57
+#: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:41
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:55
-#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:53
+#: The_Dark_Hordes/scenarios/07_Confrontation.cfg:55
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:53
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:53
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:50
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:53
 msgid "team_name^Gwiti"
 msgstr ""
 
@@ -244,17 +244,17 @@ msgstr ""
 "revendiquer comme étant le sien."
 
 #. [message]: speaker=unit
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:132
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:133
 msgid "Noooo! Not now, not when I have escaped!"
 msgstr "Noooon ! Pas maintenant, pas alors que je venais de m'échapper !"
 
 #. [message]: speaker=unit
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:146
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:147
 msgid "Argh! I die!"
 msgstr "Argh ! Je meurs !"
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:154
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:155
 msgid "The Wesnothians have discovered my escape! This is not good..."
 msgstr "Les Wesnothiens ont découvert ma fuite ! C'est pas bon du tout..."
 
@@ -517,9 +517,9 @@ msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
 #. [message]: speaker=unit
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:204
 #: The_Dark_Hordes/scenarios/03_Skull_of_Morgorath.cfg:149
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:197
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:204
 #, fuzzy
 msgid "What? I can’t die! Noooo!"
 msgstr "Quoi ? Mais je ne peux pas mourir ! Noooon !"
@@ -595,8 +595,8 @@ msgstr "Tuer tous les chefs ennemis"
 msgid "Quirind"
 msgstr "Quirind"
 
-#. [side]: type=Great Mage, id=Quirind
 #. [side]
+#. [side]: type=Great Mage, id=Quirind
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:83
 #: The_Dark_Hordes/scenarios/05_Inside_The_Tower.cfg:48
 msgid "team_name^Magi"
@@ -607,8 +607,8 @@ msgstr ""
 msgid "Lessalin"
 msgstr "Lessalin"
 
-#. [side]: type=Elvish Marshal, id=Lessalin
 #. [side]: type=Elvish Hero, id=Urind
+#. [side]: type=Elvish Marshal, id=Lessalin
 #: The_Dark_Hordes/scenarios/04_Mages_And_Elves.cfg:108
 #: The_Dark_Hordes/scenarios/06_Crelanus_Book.cfg:72
 msgid "team_name^Elves"
@@ -1015,8 +1015,8 @@ msgstr "Tuez Léonard"
 msgid "Leonard"
 msgstr "Léonard"
 
-#. [side]: type=General, id=Leonard
 #. [side]
+#. [side]: type=General, id=Leonard
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:70
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:86
 msgid "team_name^Wesnothians"
@@ -1141,10 +1141,10 @@ msgstr ""
 "Ouf... Ces humains chétifs vont sûrement être trop épuisés pour me suivre "
 "maintenant !"
 
-#. [unit]: type=Orcish Warrior, id=Tanar
 #. [side]: type=Orcish Warrior, id=Tanar
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:92
+#. [unit]: type=Orcish Warrior, id=Tanar
 #: The_Dark_Hordes/scenarios/07_Confrontation.cfg:255
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:92
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:63
 msgid "Tanar"
 msgstr "Tanar"
@@ -1215,9 +1215,9 @@ msgstr "Mort de Tanar"
 msgid "Peluthlos"
 msgstr ""
 
-#. [side]: id=Peluthlos, type=Dwarvish Berserker
-#. [side]: id=Geldar, type=Dwarvish Lord
 #. [side]: id=Ainarthol, type=Dwarvish Lord
+#. [side]: id=Geldar, type=Dwarvish Lord
+#. [side]: id=Peluthlos, type=Dwarvish Berserker
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:66
 #: The_Dark_Hordes/scenarios/08_Underground_Pool.cfg:88
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:64
@@ -1327,7 +1327,7 @@ msgstr ""
 
 #. [objectives]
 #: The_Dark_Hordes/scenarios/09_Underground_River.cfg:39
-msgid "`Your castle will sink at the start of turn 4."
+msgid "<small>Your castle will sink at the start of turn 4.</small>"
 msgstr ""
 
 #. [side]: id=Ainarthol, type=Dwarvish Lord
@@ -1414,12 +1414,12 @@ msgid ""
 msgstr ""
 
 #. [option]: speaker=narrator
-#: The_Dark_Hordes/scenarios/09x_Inter.cfg:32
+#: The_Dark_Hordes/scenarios/09x_Inter.cfg:33
 msgid "Continue playing to Part 2"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: The_Dark_Hordes/scenarios/09x_Inter.cfg:42
+#: The_Dark_Hordes/scenarios/09x_Inter.cfg:43
 msgid "End the game"
 msgstr ""
 
@@ -1502,17 +1502,29 @@ msgid "I didn’t know surface orcs were this fragile."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:253
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:256
 msgid "I am no orc!"
 msgstr ""
 
 #. [message]
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:292
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:281
+msgid ""
+"Those weaklings needed help from the undead to kill our chief! No surrender! "
+"Kill them all!"
+msgstr ""
+
+#. [message]: speaker=Gwiti Ha'atel
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:285
+msgid "Yes! Stay and fight! Give me more corpses to work with!"
+msgstr ""
+
+#. [message]
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:327
 msgid "We are getting slaughtered! Run for your lives!"
 msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:296
+#: The_Dark_Hordes/scenarios/10_Return_to_the_Northlands.cfg:331
 msgid "Let them run! All shall fear me!"
 msgstr ""
 
@@ -1532,8 +1544,8 @@ msgstr "Récupérez le crâne d'Agarash"
 msgid "Kogran"
 msgstr ""
 
-#. [side]: type=Orcish Warlord, id=Kogran
 #. [side]: type=Orcish Warlord, id=Eradush
+#. [side]: type=Orcish Warlord, id=Kogran
 #. [side]: type=Orcish Warlord, id=Prirag
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:84
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:100
@@ -1593,6 +1605,11 @@ msgstr ""
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:215
 msgid "Some time passes..."
+msgstr ""
+
+#. [message]: speaker=Gwiti Ha'atel
+#: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:220
+msgid "This potion is powerful as it is going to get. Let’s see the effects."
 msgstr ""
 
 #. [hides]: id=invisible
@@ -1701,8 +1718,8 @@ msgid ""
 "Tend to the wounded and gather your equipment. We have a campaign to plan."
 msgstr ""
 
-#. [message]: role=new_leader
 #. [message]
+#. [message]: role=new_leader
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:435
 #: The_Dark_Hordes/scenarios/11_An_Orcish_Coup.cfg:463
 msgid ""
@@ -1775,10 +1792,10 @@ msgid "chill wave"
 msgstr ""
 
 #. [attack]: type=arcane
-#: The_Dark_Hordes/units/Demilich.cfg:55
 #: The_Dark_Hordes/units/Deathmaster.cfg:46
-#: The_Dark_Hordes/units/Initiate.cfg:36
+#: The_Dark_Hordes/units/Demilich.cfg:55
 #: The_Dark_Hordes/units/Dread_Lich.cfg:56
+#: The_Dark_Hordes/units/Initiate.cfg:36
 msgid "shadow wave"
 msgstr ""
 
@@ -2005,7 +2022,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:138
+#: The_Dark_Hordes/utils/storytxt.cfg:143
 msgid ""
 "Months later, Gwiti finished studying the Tome of Crelanu and departed for "
 "where he believed the other half of Morgorath’s skull to be. The orcs, "
@@ -2013,7 +2030,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:148
+#: The_Dark_Hordes/utils/storytxt.cfg:153
 msgid ""
 "Gwiti’s research directed him north, further into the orcish lands.\n"
 "\n"
@@ -2022,14 +2039,14 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:160
+#: The_Dark_Hordes/utils/storytxt.cfg:165
 msgid ""
 "Tanar decided to use the death of the would-be Great Chiefs to subject the "
 "local tribes to his own rule. Plans to jointly invade Wesnoth were discussed."
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:164
+#: The_Dark_Hordes/utils/storytxt.cfg:169
 msgid ""
 "Gwiti knew that as long as paladins and magi roamed the land, any invasion "
 "would be severely hindered. So he decided to strike at the source of his "
@@ -2037,14 +2054,14 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:174
+#: The_Dark_Hordes/utils/storytxt.cfg:179
 msgid ""
 "With the magi out of the way, Gwiti was ready to begin his invasion, "
 "starting at the city of Aldril."
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:184
+#: The_Dark_Hordes/utils/storytxt.cfg:189
 msgid ""
 "Unknown to Gwiti, several magi present on Alduin had survived his attack. "
 "Faced with a danger beyond their own ability, they contacted outside help, "
@@ -2052,20 +2069,20 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:197
+#: The_Dark_Hordes/utils/storytxt.cfg:202
 msgid ""
 "Gwiti survived being turned on by the orcs and managed to escape eastwards."
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:201
+#: The_Dark_Hordes/utils/storytxt.cfg:206
 msgid ""
 "The Northern Alliance had sent military aid and with two armies hunting for "
 "him, Gwiti was trapped in the Estmarks."
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/utils/storytxt.cfg:204
+#: The_Dark_Hordes/utils/storytxt.cfg:209
 msgid ""
 "He spent months evading patrols while trying to build his strength back up. "
 "Eventually, he was hunted down by a rather familiar elf."
