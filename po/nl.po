@@ -1725,7 +1725,7 @@ msgstr "huil"
 #. [unit_type]: id=Deathmaster, race=undead
 #: The_Dark_Hordes/units/Deathmaster.cfg:4
 msgid "Deathmaster"
-msgstr "Dodenmeester"
+msgstr "Doodsmeester"
 
 #. [unit_type]: id=Deathmaster, race=undead
 #: The_Dark_Hordes/units/Deathmaster.cfg:19
@@ -1761,7 +1761,7 @@ msgstr ""
 #. [unit_type]: id=Demilich, race=undead
 #: The_Dark_Hordes/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr "Demusteek"
+msgstr "Halflich"
 
 #. [unit_type]: id=Demilich, race=undead
 #: The_Dark_Hordes/units/Demilich.cfg:25
@@ -1772,7 +1772,7 @@ msgid ""
 "and feared by all alike."
 msgstr ""
 "Deze magiërs betalen een hoge prijs voor hun spelletjes met de duistere "
-"machten. Demusteken verliezen hun lichaam langzaam maar zeker en veranderen "
+"machten. Halflichen verliezen hun lichaam langzaam maar zeker en veranderen "
 "in ondoden. Nadat hun transformatie is voltrokken zijn ze de reincarnatie "
 "van de vrees!"
 
@@ -1790,9 +1790,8 @@ msgstr ""
 
 #. [unit_type]: id=Dread Lich, race=undead
 #: The_Dark_Hordes/units/Dread_Lich.cfg:4
-#, fuzzy
 msgid "Dread Lich"
-msgstr "Verschikkelijke zielenzuiger"
+msgstr "Vreeslich"
 
 #. [unit_type]: id=Dread Lich, race=undead
 #: The_Dark_Hordes/units/Dread_Lich.cfg:26
