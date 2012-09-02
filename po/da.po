@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 1.2\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-17 13:18-0400\n"
 "PO-Revision-Date: 2008-12-03 13:27+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"

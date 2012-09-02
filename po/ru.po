@@ -13,7 +13,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth 0.8.5-CVS\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-17 13:18-0400\n"
 "PO-Revision-Date: 2005-09-11 19:40+0300\n"
 "Last-Translator: Alexandr Menovchicov <orders@kypi.ru>\n"

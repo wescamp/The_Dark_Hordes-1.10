@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wesnoth-tdh\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-03-17 13:18-0400\n"
 "PO-Revision-Date: 2005-08-30 18:42+0200\n"
 "Last-Translator: Balázs Eddi <balazseddi@freemail.hu>\n"
